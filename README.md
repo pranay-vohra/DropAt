@@ -92,7 +92,7 @@ For collaboration or licensing inquiries, please contact the author directly.
 This project is licensed under a **custom no-redistribution license**.
 
 It is intended solely for portfolio and demonstration purposes.  
-All rights reserved © 2025 Pranay Sharma.  
+All rights reserved © 2025 Pranay Vohra.  
 Use, copying, or distribution of the code is not permitted.
 
 For any licensing or collaboration inquiries, please contact me directly.
